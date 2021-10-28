@@ -37,7 +37,7 @@ body{
     grid-template-columns: 1fr 1fr;
 }
 #Content .Content-1 {
-  /* background: #DDB8A6;*/
+  
   margin: 30px 20px 30px 20px;
   
   text-decoration: none;
@@ -82,6 +82,10 @@ body{
    
     float: left;
    background: #D49B7E;
+  
+}
+#gallery .wrap-G{
+    margin-left: 18px;
 }
 #gallery .G-pics{
     width: 30%;
@@ -89,7 +93,7 @@ body{
     float: left;
     height: 100;
     padding: 10px;
-    margin: 19px;
+    margin: 20px;
     background: white;
 }
 #gallery .G-pics img{
